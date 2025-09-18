@@ -1,0 +1,22 @@
+/* style.css */
+.help {
+    background-color: #f8f9fa;
+}
+
+.accordion-button {
+    font-size: 1rem;
+}
+
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
+
+form .form-control {
+    border-radius: 0.375rem;
+}
+
+h6 {
+    display: inline;
+    font-size: 20px;
+}
